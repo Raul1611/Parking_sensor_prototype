@@ -10,6 +10,6 @@ Hardware components:
 - active 5v buzzer
 - nano ATMEGA328P board
 
-The system has 2 states, one in wich the lcd displays the distance in real time, and one in which it behaves like a parking sensor. The push button is used to switch between states. When entering the park state, the buzzer stats emitting sound that intensifies as the dintance gets smaller, also the 6 leds are used as distance indicators besides the lcd.
+The system has 2 states, one in wich the lcd displays the distance in real time, and one in which it behaves like a parking sensor. The push button is used to switch between states. When entering the park state, the buzzer starts emitting sound that intensifies as the distance gets smaller, also the 6 leds are used as distance indicators besides the lcd.
 
 
